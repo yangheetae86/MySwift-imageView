@@ -13,6 +13,8 @@
 		18F9118623E9EF8A00552AC3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18F9118423E9EF8A00552AC3 /* Main.storyboard */; };
 		18F9118823E9EF8B00552AC3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18F9118723E9EF8B00552AC3 /* Assets.xcassets */; };
 		18F9118B23E9EF8B00552AC3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18F9118923E9EF8B00552AC3 /* LaunchScreen.storyboard */; };
+		18F9119C23E9F2A800552AC3 /* 스크린샷 2019-07-03 오전 2.22.21.png in Resources */ = {isa = PBXBuildFile; fileRef = 18F9119A23E9F2A800552AC3 /* 스크린샷 2019-07-03 오전 2.22.21.png */; };
+		18F9119D23E9F2A800552AC3 /* 스크린샷 2019-07-03 오전 2.23.10.png in Resources */ = {isa = PBXBuildFile; fileRef = 18F9119B23E9F2A800552AC3 /* 스크린샷 2019-07-03 오전 2.23.10.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		18F9118723E9EF8B00552AC3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18F9118A23E9EF8B00552AC3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18F9118C23E9EF8B00552AC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18F9119A23E9F2A800552AC3 /* 스크린샷 2019-07-03 오전 2.22.21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2019-07-03 오전 2.22.21.png"; sourceTree = "<group>"; };
+		18F9119B23E9F2A800552AC3 /* 스크린샷 2019-07-03 오전 2.23.10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2019-07-03 오전 2.23.10.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 		18F9117D23E9EF8A00552AC3 /* imageView */ = {
 			isa = PBXGroup;
 			children = (
+				18F9119A23E9F2A800552AC3 /* 스크린샷 2019-07-03 오전 2.22.21.png */,
+				18F9119B23E9F2A800552AC3 /* 스크린샷 2019-07-03 오전 2.23.10.png */,
 				18F9117E23E9EF8A00552AC3 /* AppDelegate.swift */,
 				18F9118023E9EF8A00552AC3 /* SceneDelegate.swift */,
 				18F9118223E9EF8A00552AC3 /* ViewController.swift */,
@@ -125,7 +131,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18F9119C23E9F2A800552AC3 /* 스크린샷 2019-07-03 오전 2.22.21.png in Resources */,
 				18F9118B23E9EF8B00552AC3 /* LaunchScreen.storyboard in Resources */,
+				18F9119D23E9F2A800552AC3 /* 스크린샷 2019-07-03 오전 2.23.10.png in Resources */,
 				18F9118823E9EF8B00552AC3 /* Assets.xcassets in Resources */,
 				18F9118623E9EF8A00552AC3 /* Main.storyboard in Resources */,
 			);
